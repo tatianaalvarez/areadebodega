@@ -1,0 +1,6 @@
+{
+  "name": "Impresos El Día - Sistema de Control Logístico Litográfico",
+  "description": "Sistema integral de control de bodega y abastecimiento a prensa para imprenta litográfica (Kardex ABC, Trazabilidad Kanban, Autorizaciones, Despachos Roland/Komori, Sincronización y Métricas OTIF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
